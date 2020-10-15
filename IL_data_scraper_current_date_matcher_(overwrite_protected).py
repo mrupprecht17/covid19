@@ -19,7 +19,7 @@ for filename in filename_list:
 		else:
 			break
 
-with urlopen("http://www.dph.illinois.gov/sitefiles/COVIDZip.json?nocache=y") as f:
+with urlopen("http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json?nocache=y") as f:
 	d = json.load(f)
 	update_date_dict = d["LastUpdateDate"]
 	update_date = datetime.datetime(**{component: update_date_dict[component] for component in ['year', 'month', 'day']}).date()
