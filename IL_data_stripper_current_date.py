@@ -37,9 +37,12 @@ else:
 		print("yesterday's data does not exist; aborting")
 		exit(1)
 
-probables = d["probable_case_counts"]
-result["Illinois"]["probable_cases"] = probables["probable_cases"]
-result["Illinois"]["probable_deaths"] = probables["probable_deaths"]
+try:
+	probables = d["probable_case_counts"]
+	result["Illinois"]["probable_cases"] = probables["probable_cases"]
+	result["Illinois"]["probable_deaths"] = probables["probable_deaths"]
+except KeyError:
+	print("probable counts missing")
 
 regions = d["characteristics_by_county"]["values"]
 for region in regions:

@@ -10,7 +10,8 @@ date = pytz.utc.localize(utc_now).astimezone(tz).date()
 date_string = date.strftime("%Y.%m.%d")
 # print(date)
 
-filename_list = os.listdir("C:\\Users\\Michael\\OneDrive - California Institute of Technology\\Documents\\musings, et cetera\\COVID-19\\IL data\\")
+directory = "C:\\Users\\Michael\\OneDrive - California Institute of Technology\\Documents\\musings, et cetera\\COVID-19\\IL data\\"
+filename_list = os.listdir(directory)
 for filename in filename_list:
 	if date_string in filename:
 		s = input("today's data has already been recorded; re-record (y/n)? ")
@@ -33,7 +34,7 @@ with urlopen("http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json?nocach
 
 filenames = [
 	"COVIDHistoricalTestResults",
-	"COVIDZip",
+	# "COVIDZip",
 	"COVIDTestResults",
 	"COVIDRates",
 	"CountyDemos",
@@ -41,7 +42,14 @@ filenames = [
 
 for filename in filenames:
 	urlretrieve(f"http://www.dph.illinois.gov/sitefiles/{filename}.json?nocache=y",
-		f"C:\\Users\\Michael\\OneDrive - California Institute of Technology\\Documents\\musings, et cetera\\COVID-19\\IL data\\{filename}_{update_date_string}.json")
+		f"{directory}{filename}_{update_date_string}.json")
+urlretrieve("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetZip",
+	f"{directory}COVIDZip_{update_date_string}.json")
+with open(f"{directory}COVIDZip_{update_date_string}.json", "r+") as fp:
+	zips = json.load(fp)
+	fp.seek(0)
+	fp.truncate()
+	json.dump(zips, fp, indent="\t")
 
 if not mismatched_dates:
 	print("success")

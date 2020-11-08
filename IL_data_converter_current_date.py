@@ -27,9 +27,12 @@ for c in ["Cook", "Chicago", "Illinois"]:
 	out_string = f",,,,,,{cd},,{ct},,,,,,,,,,,,,,{cp}"
 
 	if c == "Illinois":
-		ilpp = d["Illinois"]["probable_cases"]
-		ilpd = d["Illinois"]["probable_deaths"]
-		out_string += f",{ilpp},{ilpd}"
+		try:
+			ilpp = d["Illinois"]["probable_cases"]
+			ilpd = d["Illinois"]["probable_deaths"]
+			out_string += f",{ilpp},{ilpd}"
+		except KeyError:
+			print("probable counts missing")
 	
 	open(f"{directory}{c}.csv", "w").write(out_string)
 

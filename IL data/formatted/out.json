@@ -727,6 +727,163 @@
 			"confirmed_cases": 331620,
 			"total_tested": 6531009,
 			"deaths": 9127
+		},
+		"2020.10.16": {
+			"probable_cases": 3587,
+			"probable_deaths": 260,
+			"confirmed_cases": 336174,
+			"total_tested": 6618768,
+			"deaths": 9165
+		},
+		"2020.10.17": {
+			"probable_cases": 3587,
+			"probable_deaths": 260,
+			"confirmed_cases": 339803,
+			"total_tested": 6696257,
+			"deaths": 9192
+		},
+		"2020.10.18": {
+			"probable_cases": 3587,
+			"probable_deaths": 260,
+			"confirmed_cases": 344048,
+			"total_tested": 6775553,
+			"deaths": 9214
+		},
+		"2020.10.19": {
+			"probable_cases": 3587,
+			"probable_deaths": 260,
+			"confirmed_cases": 347161,
+			"total_tested": 6824237,
+			"deaths": 9236
+		},
+		"2020.10.20": {
+			"probable_cases": 3587,
+			"probable_deaths": 260,
+			"confirmed_cases": 350875,
+			"total_tested": 6883314,
+			"deaths": 9277
+		},
+		"2020.10.21": {
+			"probable_cases": 3587,
+			"probable_deaths": 260,
+			"confirmed_cases": 355217,
+			"total_tested": 6950105,
+			"deaths": 9345
+		},
+		"2020.10.22": {
+			"probable_cases": 3587,
+			"probable_deaths": 260,
+			"confirmed_cases": 360159,
+			"total_tested": 7031082,
+			"deaths": 9387
+		},
+		"2020.10.23": {
+			"probable_cases": 4713,
+			"probable_deaths": 270,
+			"confirmed_cases": 364033,
+			"total_tested": 7113338,
+			"deaths": 9418
+		},
+		"2020.10.24": {
+			"probable_cases": 4713,
+			"probable_deaths": 270,
+			"confirmed_cases": 370194,
+			"total_tested": 7196855,
+			"deaths": 9481
+		},
+		"2020.10.25": {
+			"probable_cases": 4713,
+			"probable_deaths": 270,
+			"confirmed_cases": 374256,
+			"total_tested": 7268952,
+			"deaths": 9505
+		},
+		"2020.10.26": {
+			"probable_cases": 4713,
+			"probable_deaths": 270,
+			"confirmed_cases": 378985,
+			"total_tested": 7326216,
+			"deaths": 9522
+		},
+		"2020.10.27": {
+			"probable_cases": 4713,
+			"probable_deaths": 270,
+			"confirmed_cases": 382985,
+			"total_tested": 7388290,
+			"deaths": 9568
+		},
+		"2020.10.28": {
+			"probable_cases": 4713,
+			"probable_deaths": 270,
+			"confirmed_cases": 389095,
+			"total_tested": 7459042,
+			"deaths": 9619
+		},
+		"2020.10.29": {
+			"probable_cases": 4713,
+			"probable_deaths": 270,
+			"confirmed_cases": 395458,
+			"total_tested": 7542098,
+			"deaths": 9675
+		},
+		"2020.10.30": {
+			"probable_cases": 6259,
+			"probable_deaths": 283,
+			"confirmed_cases": 402401,
+			"total_tested": 7637209,
+			"deaths": 9711
+		},
+		"2020.10.31": {
+			"probable_cases": 6259,
+			"probable_deaths": 283,
+			"confirmed_cases": 410300,
+			"total_tested": 7729845,
+			"deaths": 9757
+		},
+		"2020.11.01": {
+			"probable_cases": 6259,
+			"probable_deaths": 283,
+			"confirmed_cases": 417280,
+			"total_tested": 7808303,
+			"deaths": 9792
+		},
+		"2020.11.02": {
+			"probable_cases": 6259,
+			"probable_deaths": 283,
+			"confirmed_cases": 423502,
+			"total_tested": 7876421,
+			"deaths": 9810
+		},
+		"2020.11.03": {
+			"probable_cases": 6259,
+			"probable_deaths": 283,
+			"confirmed_cases": 430018,
+			"total_tested": 7958856,
+			"deaths": 9878
+		},
+		"2020.11.04": {
+			"probable_cases": 6259,
+			"probable_deaths": 283,
+			"confirmed_cases": 437556,
+			"total_tested": 8030713,
+			"deaths": 9933
+		},
+		"2020.11.05": {
+			"probable_cases": 6259,
+			"probable_deaths": 283,
+			"confirmed_cases": 447491,
+			"total_tested": 8116728,
+			"deaths": 10030
+		},
+		"2020.11.06": {
+			"confirmed_cases": 465540,
+			"total_tested": 8215129,
+			"deaths": 10079
+		},
+		"2020.11.07": {
+			"confirmed_cases": 477978,
+			"total_tested": 8313547,
+			"deaths": 10154
 		}
 	},
 	"Cook": {
@@ -1249,6 +1406,121 @@
 			"confirmed_cases": 72234,
 			"total_tested": 1143544,
 			"deaths": 2329
+		},
+		"2020.10.16": {
+			"confirmed_cases": 73070,
+			"total_tested": 1158181,
+			"deaths": 2332
+		},
+		"2020.10.17": {
+			"confirmed_cases": 73760,
+			"total_tested": 1173209,
+			"deaths": 2337
+		},
+		"2020.10.18": {
+			"confirmed_cases": 74520,
+			"total_tested": 1187934,
+			"deaths": 2341
+		},
+		"2020.10.19": {
+			"confirmed_cases": 75240,
+			"total_tested": 1196737,
+			"deaths": 2347
+		},
+		"2020.10.20": {
+			"confirmed_cases": 75957,
+			"total_tested": 1206259,
+			"deaths": 2350
+		},
+		"2020.10.21": {
+			"confirmed_cases": 76733,
+			"total_tested": 1216715,
+			"deaths": 2357
+		},
+		"2020.10.22": {
+			"confirmed_cases": 77608,
+			"total_tested": 1229902,
+			"deaths": 2361
+		},
+		"2020.10.23": {
+			"confirmed_cases": 78203,
+			"total_tested": 1241780,
+			"deaths": 2363
+		},
+		"2020.10.24": {
+			"confirmed_cases": 79401,
+			"total_tested": 1257194,
+			"deaths": 2374
+		},
+		"2020.10.25": {
+			"confirmed_cases": 80123,
+			"total_tested": 1270723,
+			"deaths": 2380
+		},
+		"2020.10.26": {
+			"confirmed_cases": 81076,
+			"total_tested": 1281361,
+			"deaths": 2384
+		},
+		"2020.10.27": {
+			"confirmed_cases": 81791,
+			"total_tested": 1291104,
+			"deaths": 2387
+		},
+		"2020.10.28": {
+			"confirmed_cases": 83068,
+			"total_tested": 1301645,
+			"deaths": 2392
+		},
+		"2020.10.29": {
+			"confirmed_cases": 84204,
+			"total_tested": 1315197,
+			"deaths": 2397
+		},
+		"2020.10.30": {
+			"confirmed_cases": 85453,
+			"total_tested": 1330314,
+			"deaths": 2401
+		},
+		"2020.10.31": {
+			"confirmed_cases": 87022,
+			"total_tested": 1347386,
+			"deaths": 2411
+		},
+		"2020.11.01": {
+			"confirmed_cases": 88576,
+			"total_tested": 1363185,
+			"deaths": 2422
+		},
+		"2020.11.02": {
+			"confirmed_cases": 89741,
+			"total_tested": 1374544,
+			"deaths": 2428
+		},
+		"2020.11.03": {
+			"confirmed_cases": 91001,
+			"total_tested": 1388120,
+			"deaths": 2433
+		},
+		"2020.11.04": {
+			"confirmed_cases": 92606,
+			"total_tested": 1400087,
+			"deaths": 2440
+		},
+		"2020.11.05": {
+			"confirmed_cases": 94225,
+			"total_tested": 1414565,
+			"deaths": 2463
+		},
+		"2020.11.06": {
+			"confirmed_cases": 96931,
+			"total_tested": 1429806,
+			"deaths": 2465
+		},
+		"2020.11.07": {
+			"confirmed_cases": 99289,
+			"total_tested": 1447888,
+			"deaths": 2482
 		}
 	},
 	"Chicago": {
@@ -1771,6 +2043,121 @@
 			"confirmed_cases": 86801,
 			"total_tested": 1325450,
 			"deaths": 3003
+		},
+		"2020.10.16": {
+			"confirmed_cases": 87575,
+			"total_tested": 1340053,
+			"deaths": 3007
+		},
+		"2020.10.17": {
+			"confirmed_cases": 88460,
+			"total_tested": 1354622,
+			"deaths": 3013
+		},
+		"2020.10.18": {
+			"confirmed_cases": 89392,
+			"total_tested": 1371308,
+			"deaths": 3016
+		},
+		"2020.10.19": {
+			"confirmed_cases": 89958,
+			"total_tested": 1382500,
+			"deaths": 3017
+		},
+		"2020.10.20": {
+			"confirmed_cases": 90500,
+			"total_tested": 1392960,
+			"deaths": 3019
+		},
+		"2020.10.21": {
+			"confirmed_cases": 91406,
+			"total_tested": 1402768,
+			"deaths": 3025
+		},
+		"2020.10.22": {
+			"confirmed_cases": 92431,
+			"total_tested": 1416933,
+			"deaths": 3029
+		},
+		"2020.10.23": {
+			"confirmed_cases": 93234,
+			"total_tested": 1432321,
+			"deaths": 3029
+		},
+		"2020.10.24": {
+			"confirmed_cases": 94416,
+			"total_tested": 1446374,
+			"deaths": 3035
+		},
+		"2020.10.25": {
+			"confirmed_cases": 95463,
+			"total_tested": 1460721,
+			"deaths": 3041
+		},
+		"2020.10.26": {
+			"confirmed_cases": 96389,
+			"total_tested": 1473609,
+			"deaths": 3049
+		},
+		"2020.10.27": {
+			"confirmed_cases": 97041,
+			"total_tested": 1484905,
+			"deaths": 3052
+		},
+		"2020.10.28": {
+			"confirmed_cases": 98040,
+			"total_tested": 1495165,
+			"deaths": 3058
+		},
+		"2020.10.29": {
+			"confirmed_cases": 99445,
+			"total_tested": 1506891,
+			"deaths": 3066
+		},
+		"2020.10.30": {
+			"confirmed_cases": 100952,
+			"total_tested": 1525227,
+			"deaths": 3068
+		},
+		"2020.10.31": {
+			"confirmed_cases": 102638,
+			"total_tested": 1542638,
+			"deaths": 3074
+		},
+		"2020.11.01": {
+			"confirmed_cases": 104526,
+			"total_tested": 1562174,
+			"deaths": 3078
+		},
+		"2020.11.02": {
+			"confirmed_cases": 105999,
+			"total_tested": 1578063,
+			"deaths": 3082
+		},
+		"2020.11.03": {
+			"confirmed_cases": 107183,
+			"total_tested": 1593048,
+			"deaths": 3084
+		},
+		"2020.11.04": {
+			"confirmed_cases": 108570,
+			"total_tested": 1604274,
+			"deaths": 3101
+		},
+		"2020.11.05": {
+			"confirmed_cases": 110752,
+			"total_tested": 1618787,
+			"deaths": 3111
+		},
+		"2020.11.06": {
+			"confirmed_cases": 113335,
+			"total_tested": 1634850,
+			"deaths": 3121
+		},
+		"2020.11.07": {
+			"confirmed_cases": 115635,
+			"total_tested": 1651982,
+			"deaths": 3130
 		}
 	},
 	"60630": {
@@ -2175,8 +2562,100 @@
 			"total_tested": 21239
 		},
 		"2020.10.15": {
-			"confirmed_cases": 1480,
-			"total_tested": 21239
+			"confirmed_cases": 1510,
+			"total_tested": 21560
+		},
+		"2020.10.16": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.17": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.18": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.19": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.20": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.21": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.22": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.23": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.24": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.25": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.26": {
+			"confirmed_cases": 1528,
+			"total_tested": 21819
+		},
+		"2020.10.27": {
+			"confirmed_cases": 1750,
+			"total_tested": 24199
+		},
+		"2020.10.28": {
+			"confirmed_cases": 1750,
+			"total_tested": 24199
+		},
+		"2020.10.29": {
+			"confirmed_cases": 1750,
+			"total_tested": 24199
+		},
+		"2020.10.30": {
+			"confirmed_cases": 1834,
+			"total_tested": 24959
+		},
+		"2020.10.31": {
+			"confirmed_cases": 1834,
+			"total_tested": 24959
+		},
+		"2020.11.01": {
+			"confirmed_cases": 1886,
+			"total_tested": 25531
+		},
+		"2020.11.02": {
+			"confirmed_cases": 1886,
+			"total_tested": 25531
+		},
+		"2020.11.03": {
+			"confirmed_cases": 1886,
+			"total_tested": 25531
+		},
+		"2020.11.04": {
+			"confirmed_cases": 1970,
+			"total_tested": 26213
+		},
+		"2020.11.05": {
+			"confirmed_cases": 2014,
+			"total_tested": 26448
+		},
+		"2020.11.06": {
+			"confirmed_cases": 2014,
+			"total_tested": 26448
+		},
+		"2020.11.07": {
+			"confirmed_cases": 2104,
+			"total_tested": 26976
 		}
 	}
 }

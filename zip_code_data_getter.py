@@ -3,7 +3,7 @@ import datetime
 import numpy as np
 
 def zip_code_data(zip_code, race=None, gender=None):
-	lag = 2
+	lag = 30
 	roll = 11
 
 	directory = "C:\\Users\\Michael\\OneDrive - California Institute of Technology\\Documents\\musings, et cetera\\COVID-19\\IL data\\"
@@ -77,7 +77,14 @@ if __name__ == '__main__':
 		60645,
 		60659,
 		60625,
-		60618
+		60618,
+
+		# south side
+		60636,
+		60629,
+		60621,
+		60620,
+		60619
 	]
 	zip_codes = map(str, zip_codes)
 
