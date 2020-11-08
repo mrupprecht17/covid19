@@ -5,7 +5,7 @@ import json
 import os
 
 utc_now = datetime.datetime.utcnow()
-tz = pytz.timezone('America/Chicago')
+tz = pytz.timezone('US/Hawaii')
 date = pytz.utc.localize(utc_now).astimezone(tz).date()
 date_string = date.strftime("%Y.%m.%d")
 # print(date)
@@ -43,13 +43,15 @@ filenames = [
 for filename in filenames:
 	urlretrieve(f"http://www.dph.illinois.gov/sitefiles/{filename}.json?nocache=y",
 		f"{directory}{filename}_{update_date_string}.json")
-urlretrieve("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetZip",
-	f"{directory}COVIDZip_{update_date_string}.json")
-with open(f"{directory}COVIDZip_{update_date_string}.json", "r+") as fp:
-	zips = json.load(fp)
-	fp.seek(0)
-	fp.truncate()
-	json.dump(zips, fp, indent="\t")
+
+d = json.load(urlopen("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetZip"))
+zip_values = d["zip_values"]
+i = 0
+while i < len(zip_values):
+	zip_values[i]["demographics"] = json.load(urlopen(
+		f"https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetZipDemographics?zipCode={zip_values[i]['zip']}"))
+	i += 1
+json.dump(d, open(f"{directory}COVIDZip_{update_date_string}.json", "w"), indent="\t")
 
 if not mismatched_dates:
 	print("success")

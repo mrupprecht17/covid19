@@ -3,7 +3,7 @@ import datetime
 import numpy as np
 
 def zip_code_data(zip_code, race=None, gender=None):
-	lag = 30
+	lag = 1
 	roll = 11
 
 	directory = "C:\\Users\\Michael\\OneDrive - California Institute of Technology\\Documents\\musings, et cetera\\COVID-19\\IL data\\"

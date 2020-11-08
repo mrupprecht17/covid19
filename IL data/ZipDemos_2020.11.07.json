@@ -1,0 +1,72 @@
+{
+	"age": [{
+		"age_group": "<20",
+		"count": 228,
+		"tested": 2630
+	}, {
+		"age_group": "20-29 ",
+		"count": 425,
+		"tested": 4635
+	}, {
+		"age_group": "30-39 ",
+		"count": 409,
+		"tested": 5481
+	}, {
+		"age_group": "40-49 ",
+		"count": 331,
+		"tested": 4110
+	}, {
+		"age_group": "50-59 ",
+		"count": 334,
+		"tested": 3845
+	}, {
+		"age_group": "60-69 ",
+		"count": 228,
+		"tested": 3265
+	}, {
+		"age_group": "70-79 ",
+		"count": 123,
+		"tested": 1761
+	}, {
+		"age_group": "80+",
+		"count": 124,
+		"tested": 1246
+	}],
+	"race": [{
+		"description": "Other",
+		"count": 150,
+		"tested": 1444,
+		"color": "rgb(148,103,189)"
+	}, {
+		"description": "White",
+		"count": 666,
+		"tested": 9181,
+		"color": "rgb(31,119,180)"
+	}, {
+		"description": "Left Blank",
+		"count": 386,
+		"tested": 9481,
+		"color": "rgb(44,160,44)"
+	}, {
+		"description": "Hispanic",
+		"count": 726,
+		"tested": 4887,
+		"color": "rgb(214,39,40)"
+	}, {
+		"description": "Black",
+		"count": 51,
+		"tested": 356,
+		"color": "rgb(255,127,14)"
+	}, {
+		"description": "Asian",
+		"count": 171,
+		"tested": 1473,
+		"color": "rgb(140,86,75)"
+	}, {
+		"description": "NH/PI*",
+		"count": 33,
+		"tested": 132,
+		"color": "rgb(127,127,127)"
+	}],
+	"gender": []
+}
