@@ -1,11 +1,19 @@
 from urllib.request import urlopen, urlretrieve
+import urllib
 import datetime
 import pytz
 import json
 import os
 
+def keep_retrying(zip_values, i):
+	try:
+		zip_values[i]["demographics"] = json.load(urlopen(
+			f"https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetZipDemographics?zipCode={zip_values[i]['zip']}"))
+	except (urllib.error.URLError, ConnectionResetError):
+		keep_retrying(zip_values, i)
+
 utc_now = datetime.datetime.utcnow()
-tz = pytz.timezone('US/Hawaii')
+tz = pytz.timezone('America/Chicago')
 date = pytz.utc.localize(utc_now).astimezone(tz).date()
 date_string = date.strftime("%Y.%m.%d")
 # print(date)
@@ -48,8 +56,7 @@ d = json.load(urlopen("https://idph.illinois.gov/DPHPublicInformation/api/COVID/
 zip_values = d["zip_values"]
 i = 0
 while i < len(zip_values):
-	zip_values[i]["demographics"] = json.load(urlopen(
-		f"https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetZipDemographics?zipCode={zip_values[i]['zip']}"))
+	keep_retrying(zip_values, i)
 	i += 1
 json.dump(d, open(f"{directory}COVIDZip_{update_date_string}.json", "w"), indent="\t")
 
