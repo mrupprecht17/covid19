@@ -1,0 +1,14 @@
+COVIDTestResults
+missing probables
+missing state historical results (w/e)
+missing state demos
+
+CountyDemos
+added state demos
+
+COVIDRates
+added more precision (w/e)
+added Illinois
+
+COVIDHistoricalTestResults
+no longer historical (w/e tbh, should already be covered)

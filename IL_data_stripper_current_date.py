@@ -44,12 +44,12 @@ try:
 except KeyError:
 	print("probable counts missing")
 
-regions = d["characteristics_by_county"]["values"]
+regions = d["characteristics_by_county"]
 for region in regions:
-	region_name = region["County"]
+	region_name = region["CountyName"]
 	if region_name in ["Illinois", "Cook", "Chicago"]:
 		result[region_name]["confirmed_cases"] = region["confirmed_cases"]
-		result[region_name]["total_tested"] = region["total_tested"]
+		result[region_name]["total_tested"] = region["tested"]
 		result[region_name]["deaths"] = region["deaths"]
 
 filename = f"{directory}COVIDZip_{date_string}.json"

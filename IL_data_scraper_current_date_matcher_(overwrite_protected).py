@@ -28,9 +28,9 @@ for filename in filename_list:
 		else:
 			break
 
-with urlopen("http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json?nocache=y") as f:
+with urlopen("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyTestResults") as f:
 	d = json.load(f)
-	update_date_dict = d["LastUpdateDate"]
+	update_date_dict = d["lastUpdatedDate"]
 	update_date = datetime.datetime(**{component: update_date_dict[component] for component in ['year', 'month', 'day']}).date()
 	update_date_string = update_date.strftime("%Y.%m.%d")
 	mismatched_dates = date != update_date
@@ -40,17 +40,17 @@ with urlopen("http://www.dph.illinois.gov/sitefiles/COVIDTestResults.json?nocach
 				print("the data online has not been updated yet; try again later today (perhaps after 14:30 CT)")
 				exit(1)
 
-filenames = [
-	"COVIDHistoricalTestResults",
-	# "COVIDZip",
-	"COVIDTestResults",
-	"COVIDRates",
-	"CountyDemos",
-]
+api_names = {
+	# "COVIDHistoricalTestResults": f"GetCountyHistoricalTestResults?reportDate={update_date_string}",
+	# "COVIDZip": "GetZip",
+	"COVIDTestResults": "GetCountyTestResults",
+	"COVIDRates": "GetCountyRates",
+	"CountyDemos": "GetCountyDemographics",
+}
 
-for filename in filenames:
-	urlretrieve(f"http://www.dph.illinois.gov/sitefiles/{filename}.json?nocache=y",
-		f"{directory}{filename}_{update_date_string}.json")
+for old_name in api_names:
+	json.dump(json.load(urlopen(f"https://idph.illinois.gov/DPHPublicInformation/api/COVID/{api_names[old_name]}")),
+		open(f"{directory}{old_name}_{update_date_string}.json", "w"), indent="\t")
 
 d = json.load(urlopen("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetZip"))
 zip_values = d["zip_values"]
