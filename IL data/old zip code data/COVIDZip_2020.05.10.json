@@ -1,0 +1,2409 @@
+{
+	"lastUpdatedDate": {
+		"year": 2020,
+		"month": 5,
+		"day": 10
+	},
+	"zip_values": [
+		{
+			"zip": "46324",
+			"confirmed_cases": 8,
+			"total_tested": 93
+		},
+		{
+			"zip": "53142",
+			"confirmed_cases": 6,
+			"total_tested": 116
+		},
+		{
+			"zip": "60002",
+			"confirmed_cases": 66,
+			"total_tested": 468
+		},
+		{
+			"zip": "60004",
+			"confirmed_cases": 187,
+			"total_tested": 1799
+		},
+		{
+			"zip": "60005",
+			"confirmed_cases": 97,
+			"total_tested": 560
+		},
+		{
+			"zip": "60007",
+			"confirmed_cases": 137,
+			"total_tested": 678
+		},
+		{
+			"zip": "60008",
+			"confirmed_cases": 166,
+			"total_tested": 733
+		},
+		{
+			"zip": "60010",
+			"confirmed_cases": 58,
+			"total_tested": 565
+		},
+		{
+			"zip": "60012",
+			"confirmed_cases": 62,
+			"total_tested": 188
+		},
+		{
+			"zip": "60013",
+			"confirmed_cases": 54,
+			"total_tested": 317
+		},
+		{
+			"zip": "60014",
+			"confirmed_cases": 107,
+			"total_tested": 761
+		},
+		{
+			"zip": "60015",
+			"confirmed_cases": 125,
+			"total_tested": 692
+		},
+		{
+			"zip": "60016",
+			"confirmed_cases": 731,
+			"total_tested": 2186
+		},
+		{
+			"zip": "60018",
+			"confirmed_cases": 317,
+			"total_tested": 1004
+		},
+		{
+			"zip": "60020",
+			"confirmed_cases": 22,
+			"total_tested": 207
+		},
+		{
+			"zip": "60021",
+			"confirmed_cases": 10,
+			"total_tested": 79
+		},
+		{
+			"zip": "60022",
+			"confirmed_cases": 23,
+			"total_tested": 209
+		},
+		{
+			"zip": "60025",
+			"confirmed_cases": 236,
+			"total_tested": 1239
+		},
+		{
+			"zip": "60026",
+			"confirmed_cases": 96,
+			"total_tested": 422
+		},
+		{
+			"zip": "60030",
+			"confirmed_cases": 103,
+			"total_tested": 694
+		},
+		{
+			"zip": "60031",
+			"confirmed_cases": 191,
+			"total_tested": 954
+		},
+		{
+			"zip": "60033",
+			"confirmed_cases": 79,
+			"total_tested": 304
+		},
+		{
+			"zip": "60035",
+			"confirmed_cases": 171,
+			"total_tested": 938
+		},
+		{
+			"zip": "60040",
+			"confirmed_cases": 60,
+			"total_tested": 181
+		},
+		{
+			"zip": "60041",
+			"confirmed_cases": 25,
+			"total_tested": 165
+		},
+		{
+			"zip": "60042",
+			"confirmed_cases": 19,
+			"total_tested": 114
+		},
+		{
+			"zip": "60043",
+			"confirmed_cases": 14,
+			"total_tested": 94
+		},
+		{
+			"zip": "60044",
+			"confirmed_cases": 64,
+			"total_tested": 315
+		},
+		{
+			"zip": "60045",
+			"confirmed_cases": 97,
+			"total_tested": 549
+		},
+		{
+			"zip": "60046",
+			"confirmed_cases": 116,
+			"total_tested": 629
+		},
+		{
+			"zip": "60047",
+			"confirmed_cases": 114,
+			"total_tested": 557
+		},
+		{
+			"zip": "60048",
+			"confirmed_cases": 78,
+			"total_tested": 500
+		},
+		{
+			"zip": "60050",
+			"confirmed_cases": 118,
+			"total_tested": 613
+		},
+		{
+			"zip": "60051",
+			"confirmed_cases": 64,
+			"total_tested": 417
+		},
+		{
+			"zip": "60053",
+			"confirmed_cases": 184,
+			"total_tested": 794
+		},
+		{
+			"zip": "60056",
+			"confirmed_cases": 369,
+			"total_tested": 1372
+		},
+		{
+			"zip": "60060",
+			"confirmed_cases": 249,
+			"total_tested": 827
+		},
+		{
+			"zip": "60061",
+			"confirmed_cases": 104,
+			"total_tested": 488
+		},
+		{
+			"zip": "60062",
+			"confirmed_cases": 224,
+			"total_tested": 1351
+		},
+		{
+			"zip": "60064",
+			"confirmed_cases": 396,
+			"total_tested": 758
+		},
+		{
+			"zip": "60067",
+			"confirmed_cases": 95,
+			"total_tested": 642
+		},
+		{
+			"zip": "60068",
+			"confirmed_cases": 193,
+			"total_tested": 901
+		},
+		{
+			"zip": "60069",
+			"confirmed_cases": 45,
+			"total_tested": 223
+		},
+		{
+			"zip": "60070",
+			"confirmed_cases": 123,
+			"total_tested": 424
+		},
+		{
+			"zip": "60071",
+			"confirmed_cases": 7,
+			"total_tested": 58
+		},
+		{
+			"zip": "60073",
+			"confirmed_cases": 445,
+			"total_tested": 1443
+		},
+		{
+			"zip": "60074",
+			"confirmed_cases": 212,
+			"total_tested": 876
+		},
+		{
+			"zip": "60076",
+			"confirmed_cases": 327,
+			"total_tested": 1491
+		},
+		{
+			"zip": "60077",
+			"confirmed_cases": 266,
+			"total_tested": 1232
+		},
+		{
+			"zip": "60079",
+			"confirmed_cases": 9,
+			"total_tested": 23
+		},
+		{
+			"zip": "60081",
+			"confirmed_cases": 30,
+			"total_tested": 154
+		},
+		{
+			"zip": "60083",
+			"confirmed_cases": 62,
+			"total_tested": 233
+		},
+		{
+			"zip": "60084",
+			"confirmed_cases": 107,
+			"total_tested": 271
+		},
+		{
+			"zip": "60085",
+			"confirmed_cases": 1506,
+			"total_tested": 3063
+		},
+		{
+			"zip": "60087",
+			"confirmed_cases": 393,
+			"total_tested": 1045
+		},
+		{
+			"zip": "60088",
+			"confirmed_cases": 37,
+			"total_tested": 77
+		},
+		{
+			"zip": "60089",
+			"confirmed_cases": 144,
+			"total_tested": 740
+		},
+		{
+			"zip": "60090",
+			"confirmed_cases": 363,
+			"total_tested": 1166
+		},
+		{
+			"zip": "60091",
+			"confirmed_cases": 111,
+			"total_tested": 801
+		},
+		{
+			"zip": "60093",
+			"confirmed_cases": 106,
+			"total_tested": 635
+		},
+		{
+			"zip": "60096",
+			"confirmed_cases": 21,
+			"total_tested": 118
+		},
+		{
+			"zip": "60097",
+			"confirmed_cases": 26,
+			"total_tested": 206
+		},
+		{
+			"zip": "60098",
+			"confirmed_cases": 204,
+			"total_tested": 719
+		},
+		{
+			"zip": "60099",
+			"confirmed_cases": 318,
+			"total_tested": 937
+		},
+		{
+			"zip": "60101",
+			"confirmed_cases": 410,
+			"total_tested": 1251
+		},
+		{
+			"zip": "60102",
+			"confirmed_cases": 74,
+			"total_tested": 480
+		},
+		{
+			"zip": "60103",
+			"confirmed_cases": 140,
+			"total_tested": 794
+		},
+		{
+			"zip": "60104",
+			"confirmed_cases": 284,
+			"total_tested": 962
+		},
+		{
+			"zip": "60106",
+			"confirmed_cases": 313,
+			"total_tested": 1046
+		},
+		{
+			"zip": "60107",
+			"confirmed_cases": 287,
+			"total_tested": 1046
+		},
+		{
+			"zip": "60108",
+			"confirmed_cases": 141,
+			"total_tested": 1116
+		},
+		{
+			"zip": "60109",
+			"confirmed_cases": 11,
+			"total_tested": 268
+		},
+		{
+			"zip": "60110",
+			"confirmed_cases": 284,
+			"total_tested": 737
+		},
+		{
+			"zip": "60112",
+			"confirmed_cases": 15,
+			"total_tested": 85
+		},
+		{
+			"zip": "60115",
+			"confirmed_cases": 64,
+			"total_tested": 657
+		},
+		{
+			"zip": "60118",
+			"confirmed_cases": 39,
+			"total_tested": 216
+		},
+		{
+			"zip": "60119",
+			"confirmed_cases": 17,
+			"total_tested": 175
+		},
+		{
+			"zip": "60120",
+			"confirmed_cases": 540,
+			"total_tested": 1279
+		},
+		{
+			"zip": "60123",
+			"confirmed_cases": 328,
+			"total_tested": 1062
+		},
+		{
+			"zip": "60124",
+			"confirmed_cases": 44,
+			"total_tested": 301
+		},
+		{
+			"zip": "60126",
+			"confirmed_cases": 163,
+			"total_tested": 1122
+		},
+		{
+			"zip": "60130",
+			"confirmed_cases": 80,
+			"total_tested": 588
+		},
+		{
+			"zip": "60131",
+			"confirmed_cases": 211,
+			"total_tested": 777
+		},
+		{
+			"zip": "60133",
+			"confirmed_cases": 371,
+			"total_tested": 1167
+		},
+		{
+			"zip": "60134",
+			"confirmed_cases": 84,
+			"total_tested": 428
+		},
+		{
+			"zip": "60135",
+			"confirmed_cases": 19,
+			"total_tested": 125
+		},
+		{
+			"zip": "60136",
+			"confirmed_cases": 28,
+			"total_tested": 127
+		},
+		{
+			"zip": "60137",
+			"confirmed_cases": 83,
+			"total_tested": 690
+		},
+		{
+			"zip": "60139",
+			"confirmed_cases": 312,
+			"total_tested": 1079
+		},
+		{
+			"zip": "60140",
+			"confirmed_cases": 46,
+			"total_tested": 311
+		},
+		{
+			"zip": "60141",
+			"confirmed_cases": 7,
+			"total_tested": 174
+		},
+		{
+			"zip": "60142",
+			"confirmed_cases": 48,
+			"total_tested": 512
+		},
+		{
+			"zip": "60143",
+			"confirmed_cases": 95,
+			"total_tested": 442
+		},
+		{
+			"zip": "60146",
+			"confirmed_cases": 6,
+			"total_tested": 25
+		},
+		{
+			"zip": "60148",
+			"confirmed_cases": 164,
+			"total_tested": 1105
+		},
+		{
+			"zip": "60152",
+			"confirmed_cases": 37,
+			"total_tested": 197
+		},
+		{
+			"zip": "60153",
+			"confirmed_cases": 295,
+			"total_tested": 1203
+		},
+		{
+			"zip": "60154",
+			"confirmed_cases": 131,
+			"total_tested": 738
+		},
+		{
+			"zip": "60155",
+			"confirmed_cases": 119,
+			"total_tested": 383
+		},
+		{
+			"zip": "60156",
+			"confirmed_cases": 73,
+			"total_tested": 467
+		},
+		{
+			"zip": "60157",
+			"confirmed_cases": 6,
+			"total_tested": 44
+		},
+		{
+			"zip": "60160",
+			"confirmed_cases": 398,
+			"total_tested": 1256
+		},
+		{
+			"zip": "60162",
+			"confirmed_cases": 97,
+			"total_tested": 400
+		},
+		{
+			"zip": "60163",
+			"confirmed_cases": 54,
+			"total_tested": 213
+		},
+		{
+			"zip": "60164",
+			"confirmed_cases": 296,
+			"total_tested": 1359
+		},
+		{
+			"zip": "60165",
+			"confirmed_cases": 111,
+			"total_tested": 252
+		},
+		{
+			"zip": "60169",
+			"confirmed_cases": 222,
+			"total_tested": 760
+		},
+		{
+			"zip": "60171",
+			"confirmed_cases": 65,
+			"total_tested": 375
+		},
+		{
+			"zip": "60172",
+			"confirmed_cases": 137,
+			"total_tested": 553
+		},
+		{
+			"zip": "60173",
+			"confirmed_cases": 44,
+			"total_tested": 199
+		},
+		{
+			"zip": "60174",
+			"confirmed_cases": 77,
+			"total_tested": 831
+		},
+		{
+			"zip": "60175",
+			"confirmed_cases": 40,
+			"total_tested": 418
+		},
+		{
+			"zip": "60176",
+			"confirmed_cases": 85,
+			"total_tested": 379
+		},
+		{
+			"zip": "60177",
+			"confirmed_cases": 154,
+			"total_tested": 467
+		},
+		{
+			"zip": "60178",
+			"confirmed_cases": 22,
+			"total_tested": 299
+		},
+		{
+			"zip": "60181",
+			"confirmed_cases": 148,
+			"total_tested": 702
+		},
+		{
+			"zip": "60185",
+			"confirmed_cases": 335,
+			"total_tested": 1074
+		},
+		{
+			"zip": "60187",
+			"confirmed_cases": 72,
+			"total_tested": 613
+		},
+		{
+			"zip": "60188",
+			"confirmed_cases": 276,
+			"total_tested": 1127
+		},
+		{
+			"zip": "60189",
+			"confirmed_cases": 55,
+			"total_tested": 530
+		},
+		{
+			"zip": "60190",
+			"confirmed_cases": 23,
+			"total_tested": 327
+		},
+		{
+			"zip": "60191",
+			"confirmed_cases": 98,
+			"total_tested": 400
+		},
+		{
+			"zip": "60192",
+			"confirmed_cases": 30,
+			"total_tested": 245
+		},
+		{
+			"zip": "60193",
+			"confirmed_cases": 128,
+			"total_tested": 710
+		},
+		{
+			"zip": "60194",
+			"confirmed_cases": 74,
+			"total_tested": 401
+		},
+		{
+			"zip": "60195",
+			"confirmed_cases": 8,
+			"total_tested": 66
+		},
+		{
+			"zip": "60201",
+			"confirmed_cases": 232,
+			"total_tested": 1544
+		},
+		{
+			"zip": "60202",
+			"confirmed_cases": 239,
+			"total_tested": 1342
+		},
+		{
+			"zip": "60203",
+			"confirmed_cases": 21,
+			"total_tested": 146
+		},
+		{
+			"zip": "60301",
+			"confirmed_cases": 16,
+			"total_tested": 99
+		},
+		{
+			"zip": "60302",
+			"confirmed_cases": 142,
+			"total_tested": 1073
+		},
+		{
+			"zip": "60304",
+			"confirmed_cases": 56,
+			"total_tested": 522
+		},
+		{
+			"zip": "60305",
+			"confirmed_cases": 35,
+			"total_tested": 322
+		},
+		{
+			"zip": "60401",
+			"confirmed_cases": 32,
+			"total_tested": 228
+		},
+		{
+			"zip": "60402",
+			"confirmed_cases": 818,
+			"total_tested": 3087
+		},
+		{
+			"zip": "60403",
+			"confirmed_cases": 116,
+			"total_tested": 687
+		},
+		{
+			"zip": "60404",
+			"confirmed_cases": 76,
+			"total_tested": 570
+		},
+		{
+			"zip": "60406",
+			"confirmed_cases": 278,
+			"total_tested": 1122
+		},
+		{
+			"zip": "60408",
+			"confirmed_cases": 12,
+			"total_tested": 104
+		},
+		{
+			"zip": "60409",
+			"confirmed_cases": 384,
+			"total_tested": 1818
+		},
+		{
+			"zip": "60410",
+			"confirmed_cases": 24,
+			"total_tested": 288
+		},
+		{
+			"zip": "60411",
+			"confirmed_cases": 622,
+			"total_tested": 2868
+		},
+		{
+			"zip": "60415",
+			"confirmed_cases": 137,
+			"total_tested": 468
+		},
+		{
+			"zip": "60417",
+			"confirmed_cases": 106,
+			"total_tested": 595
+		},
+		{
+			"zip": "60418",
+			"confirmed_cases": 66,
+			"total_tested": 281
+		},
+		{
+			"zip": "60419",
+			"confirmed_cases": 249,
+			"total_tested": 1261
+		},
+		{
+			"zip": "60421",
+			"confirmed_cases": 6,
+			"total_tested": 74
+		},
+		{
+			"zip": "60422",
+			"confirmed_cases": 65,
+			"total_tested": 440
+		},
+		{
+			"zip": "60423",
+			"confirmed_cases": 103,
+			"total_tested": 676
+		},
+		{
+			"zip": "60425",
+			"confirmed_cases": 94,
+			"total_tested": 591
+		},
+		{
+			"zip": "60426",
+			"confirmed_cases": 310,
+			"total_tested": 1547
+		},
+		{
+			"zip": "60428",
+			"confirmed_cases": 151,
+			"total_tested": 832
+		},
+		{
+			"zip": "60429",
+			"confirmed_cases": 173,
+			"total_tested": 1087
+		},
+		{
+			"zip": "60430",
+			"confirmed_cases": 206,
+			"total_tested": 967
+		},
+		{
+			"zip": "60431",
+			"confirmed_cases": 120,
+			"total_tested": 834
+		},
+		{
+			"zip": "60432",
+			"confirmed_cases": 171,
+			"total_tested": 676
+		},
+		{
+			"zip": "60433",
+			"confirmed_cases": 163,
+			"total_tested": 595
+		},
+		{
+			"zip": "60434",
+			"confirmed_cases": 133,
+			"total_tested": 86
+		},
+		{
+			"zip": "60435",
+			"confirmed_cases": 437,
+			"total_tested": 2115
+		},
+		{
+			"zip": "60436",
+			"confirmed_cases": 119,
+			"total_tested": 708
+		},
+		{
+			"zip": "60438",
+			"confirmed_cases": 240,
+			"total_tested": 1152
+		},
+		{
+			"zip": "60439",
+			"confirmed_cases": 59,
+			"total_tested": 506
+		},
+		{
+			"zip": "60440",
+			"confirmed_cases": 546,
+			"total_tested": 2117
+		},
+		{
+			"zip": "60441",
+			"confirmed_cases": 135,
+			"total_tested": 791
+		},
+		{
+			"zip": "60442",
+			"confirmed_cases": 30,
+			"total_tested": 208
+		},
+		{
+			"zip": "60443",
+			"confirmed_cases": 267,
+			"total_tested": 1222
+		},
+		{
+			"zip": "60445",
+			"confirmed_cases": 101,
+			"total_tested": 631
+		},
+		{
+			"zip": "60446",
+			"confirmed_cases": 296,
+			"total_tested": 1428
+		},
+		{
+			"zip": "60447",
+			"confirmed_cases": 24,
+			"total_tested": 317
+		},
+		{
+			"zip": "60448",
+			"confirmed_cases": 92,
+			"total_tested": 476
+		},
+		{
+			"zip": "60449",
+			"confirmed_cases": 57,
+			"total_tested": 371
+		},
+		{
+			"zip": "60450",
+			"confirmed_cases": 23,
+			"total_tested": 289
+		},
+		{
+			"zip": "60451",
+			"confirmed_cases": 69,
+			"total_tested": 570
+		},
+		{
+			"zip": "60452",
+			"confirmed_cases": 134,
+			"total_tested": 788
+		},
+		{
+			"zip": "60453",
+			"confirmed_cases": 490,
+			"total_tested": 1828
+		},
+		{
+			"zip": "60455",
+			"confirmed_cases": 221,
+			"total_tested": 889
+		},
+		{
+			"zip": "60456",
+			"confirmed_cases": 35,
+			"total_tested": 159
+		},
+		{
+			"zip": "60457",
+			"confirmed_cases": 89,
+			"total_tested": 338
+		},
+		{
+			"zip": "60458",
+			"confirmed_cases": 82,
+			"total_tested": 478
+		},
+		{
+			"zip": "60459",
+			"confirmed_cases": 248,
+			"total_tested": 953
+		},
+		{
+			"zip": "60461",
+			"confirmed_cases": 46,
+			"total_tested": 284
+		},
+		{
+			"zip": "60462",
+			"confirmed_cases": 183,
+			"total_tested": 1022
+		},
+		{
+			"zip": "60463",
+			"confirmed_cases": 146,
+			"total_tested": 471
+		},
+		{
+			"zip": "60464",
+			"confirmed_cases": 30,
+			"total_tested": 213
+		},
+		{
+			"zip": "60465",
+			"confirmed_cases": 135,
+			"total_tested": 508
+		},
+		{
+			"zip": "60466",
+			"confirmed_cases": 394,
+			"total_tested": 1554
+		},
+		{
+			"zip": "60467",
+			"confirmed_cases": 112,
+			"total_tested": 579
+		},
+		{
+			"zip": "60468",
+			"confirmed_cases": 20,
+			"total_tested": 111
+		},
+		{
+			"zip": "60469",
+			"confirmed_cases": 36,
+			"total_tested": 223
+		},
+		{
+			"zip": "60471",
+			"confirmed_cases": 162,
+			"total_tested": 753
+		},
+		{
+			"zip": "60472",
+			"confirmed_cases": 49,
+			"total_tested": 299
+		},
+		{
+			"zip": "60473",
+			"confirmed_cases": 277,
+			"total_tested": 1362
+		},
+		{
+			"zip": "60475",
+			"confirmed_cases": 56,
+			"total_tested": 344
+		},
+		{
+			"zip": "60476",
+			"confirmed_cases": 14,
+			"total_tested": 98
+		},
+		{
+			"zip": "60477",
+			"confirmed_cases": 159,
+			"total_tested": 961
+		},
+		{
+			"zip": "60478",
+			"confirmed_cases": 248,
+			"total_tested": 1227
+		},
+		{
+			"zip": "60480",
+			"confirmed_cases": 22,
+			"total_tested": 149
+		},
+		{
+			"zip": "60481",
+			"confirmed_cases": 17,
+			"total_tested": 211
+		},
+		{
+			"zip": "60482",
+			"confirmed_cases": 60,
+			"total_tested": 304
+		},
+		{
+			"zip": "60484",
+			"confirmed_cases": 78,
+			"total_tested": 349
+		},
+		{
+			"zip": "60487",
+			"confirmed_cases": 95,
+			"total_tested": 604
+		},
+		{
+			"zip": "60490",
+			"confirmed_cases": 105,
+			"total_tested": 630
+		},
+		{
+			"zip": "60491",
+			"confirmed_cases": 99,
+			"total_tested": 493
+		},
+		{
+			"zip": "60501",
+			"confirmed_cases": 165,
+			"total_tested": 473
+		},
+		{
+			"zip": "60502",
+			"confirmed_cases": 48,
+			"total_tested": 344
+		},
+		{
+			"zip": "60503",
+			"confirmed_cases": 35,
+			"total_tested": 228
+		},
+		{
+			"zip": "60504",
+			"confirmed_cases": 149,
+			"total_tested": 739
+		},
+		{
+			"zip": "60505",
+			"confirmed_cases": 788,
+			"total_tested": 1724
+		},
+		{
+			"zip": "60506",
+			"confirmed_cases": 474,
+			"total_tested": 1921
+		},
+		{
+			"zip": "60510",
+			"confirmed_cases": 55,
+			"total_tested": 515
+		},
+		{
+			"zip": "60513",
+			"confirmed_cases": 97,
+			"total_tested": 753
+		},
+		{
+			"zip": "60514",
+			"confirmed_cases": 29,
+			"total_tested": 260
+		},
+		{
+			"zip": "60515",
+			"confirmed_cases": 54,
+			"total_tested": 480
+		},
+		{
+			"zip": "60516",
+			"confirmed_cases": 77,
+			"total_tested": 539
+		},
+		{
+			"zip": "60517",
+			"confirmed_cases": 137,
+			"total_tested": 804
+		},
+		{
+			"zip": "60521",
+			"confirmed_cases": 163,
+			"total_tested": 621
+		},
+		{
+			"zip": "60523",
+			"confirmed_cases": 65,
+			"total_tested": 363
+		},
+		{
+			"zip": "60525",
+			"confirmed_cases": 183,
+			"total_tested": 1191
+		},
+		{
+			"zip": "60526",
+			"confirmed_cases": 50,
+			"total_tested": 517
+		},
+		{
+			"zip": "60527",
+			"confirmed_cases": 176,
+			"total_tested": 1075
+		},
+		{
+			"zip": "60532",
+			"confirmed_cases": 76,
+			"total_tested": 499
+		},
+		{
+			"zip": "60534",
+			"confirmed_cases": 88,
+			"total_tested": 404
+		},
+		{
+			"zip": "60538",
+			"confirmed_cases": 138,
+			"total_tested": 553
+		},
+		{
+			"zip": "60540",
+			"confirmed_cases": 76,
+			"total_tested": 815
+		},
+		{
+			"zip": "60542",
+			"confirmed_cases": 59,
+			"total_tested": 404
+		},
+		{
+			"zip": "60543",
+			"confirmed_cases": 136,
+			"total_tested": 634
+		},
+		{
+			"zip": "60544",
+			"confirmed_cases": 107,
+			"total_tested": 800
+		},
+		{
+			"zip": "60545",
+			"confirmed_cases": 75,
+			"total_tested": 326
+		},
+		{
+			"zip": "60546",
+			"confirmed_cases": 97,
+			"total_tested": 663
+		},
+		{
+			"zip": "60548",
+			"confirmed_cases": 35,
+			"total_tested": 199
+		},
+		{
+			"zip": "60551",
+			"confirmed_cases": 16,
+			"total_tested": 60
+		},
+		{
+			"zip": "60552",
+			"confirmed_cases": 6,
+			"total_tested": 70
+		},
+		{
+			"zip": "60554",
+			"confirmed_cases": 21,
+			"total_tested": 194
+		},
+		{
+			"zip": "60555",
+			"confirmed_cases": 61,
+			"total_tested": 321
+		},
+		{
+			"zip": "60558",
+			"confirmed_cases": 24,
+			"total_tested": 284
+		},
+		{
+			"zip": "60559",
+			"confirmed_cases": 201,
+			"total_tested": 720
+		},
+		{
+			"zip": "60560",
+			"confirmed_cases": 51,
+			"total_tested": 343
+		},
+		{
+			"zip": "60561",
+			"confirmed_cases": 81,
+			"total_tested": 607
+		},
+		{
+			"zip": "60563",
+			"confirmed_cases": 106,
+			"total_tested": 818
+		},
+		{
+			"zip": "60564",
+			"confirmed_cases": 90,
+			"total_tested": 734
+		},
+		{
+			"zip": "60565",
+			"confirmed_cases": 138,
+			"total_tested": 702
+		},
+		{
+			"zip": "60585",
+			"confirmed_cases": 51,
+			"total_tested": 418
+		},
+		{
+			"zip": "60586",
+			"confirmed_cases": 209,
+			"total_tested": 1234
+		},
+		{
+			"zip": "60601",
+			"confirmed_cases": 62,
+			"total_tested": 453
+		},
+		{
+			"zip": "60602",
+			"confirmed_cases": 8,
+			"total_tested": 76
+		},
+		{
+			"zip": "60603",
+			"confirmed_cases": 6,
+			"total_tested": 45
+		},
+		{
+			"zip": "60604",
+			"confirmed_cases": 13,
+			"total_tested": 64
+		},
+		{
+			"zip": "60605",
+			"confirmed_cases": 138,
+			"total_tested": 973
+		},
+		{
+			"zip": "60606",
+			"confirmed_cases": 38,
+			"total_tested": 289
+		},
+		{
+			"zip": "60607",
+			"confirmed_cases": 342,
+			"total_tested": 1254
+		},
+		{
+			"zip": "60608",
+			"confirmed_cases": 1088,
+			"total_tested": 3737
+		},
+		{
+			"zip": "60609",
+			"confirmed_cases": 994,
+			"total_tested": 2836
+		},
+		{
+			"zip": "60610",
+			"confirmed_cases": 171,
+			"total_tested": 1229
+		},
+		{
+			"zip": "60611",
+			"confirmed_cases": 106,
+			"total_tested": 1404
+		},
+		{
+			"zip": "60612",
+			"confirmed_cases": 469,
+			"total_tested": 2430
+		},
+		{
+			"zip": "60613",
+			"confirmed_cases": 305,
+			"total_tested": 1431
+		},
+		{
+			"zip": "60614",
+			"confirmed_cases": 394,
+			"total_tested": 2265
+		},
+		{
+			"zip": "60615",
+			"confirmed_cases": 276,
+			"total_tested": 1804
+		},
+		{
+			"zip": "60616",
+			"confirmed_cases": 294,
+			"total_tested": 1916
+		},
+		{
+			"zip": "60617",
+			"confirmed_cases": 685,
+			"total_tested": 3581
+		},
+		{
+			"zip": "60618",
+			"confirmed_cases": 730,
+			"total_tested": 3075
+		},
+		{
+			"zip": "60619",
+			"confirmed_cases": 674,
+			"total_tested": 3237
+		},
+		{
+			"zip": "60620",
+			"confirmed_cases": 819,
+			"total_tested": 3492
+		},
+		{
+			"zip": "60621",
+			"confirmed_cases": 372,
+			"total_tested": 1465
+		},
+		{
+			"zip": "60622",
+			"confirmed_cases": 416,
+			"total_tested": 1916
+		},
+		{
+			"zip": "60623",
+			"confirmed_cases": 2004,
+			"total_tested": 4587
+		},
+		{
+			"zip": "60624",
+			"confirmed_cases": 555,
+			"total_tested": 2079
+		},
+		{
+			"zip": "60625",
+			"confirmed_cases": 863,
+			"total_tested": 2819
+		},
+		{
+			"zip": "60626",
+			"confirmed_cases": 663,
+			"total_tested": 2391
+		},
+		{
+			"zip": "60628",
+			"confirmed_cases": 767,
+			"total_tested": 3117
+		},
+		{
+			"zip": "60629",
+			"confirmed_cases": 1852,
+			"total_tested": 4794
+		},
+		{
+			"zip": "60630",
+			"confirmed_cases": 481,
+			"total_tested": 2096
+		},
+		{
+			"zip": "60631",
+			"confirmed_cases": 171,
+			"total_tested": 1427
+		},
+		{
+			"zip": "60632",
+			"confirmed_cases": 1747,
+			"total_tested": 4071
+		},
+		{
+			"zip": "60633",
+			"confirmed_cases": 195,
+			"total_tested": 1252
+		},
+		{
+			"zip": "60634",
+			"confirmed_cases": 888,
+			"total_tested": 4153
+		},
+		{
+			"zip": "60636",
+			"confirmed_cases": 474,
+			"total_tested": 1453
+		},
+		{
+			"zip": "60637",
+			"confirmed_cases": 407,
+			"total_tested": 2593
+		},
+		{
+			"zip": "60638",
+			"confirmed_cases": 718,
+			"total_tested": 2895
+		},
+		{
+			"zip": "60639",
+			"confirmed_cases": 1969,
+			"total_tested": 4942
+		},
+		{
+			"zip": "60640",
+			"confirmed_cases": 583,
+			"total_tested": 2426
+		},
+		{
+			"zip": "60641",
+			"confirmed_cases": 812,
+			"total_tested": 2907
+		},
+		{
+			"zip": "60642",
+			"confirmed_cases": 102,
+			"total_tested": 678
+		},
+		{
+			"zip": "60643",
+			"confirmed_cases": 567,
+			"total_tested": 2871
+		},
+		{
+			"zip": "60644",
+			"confirmed_cases": 788,
+			"total_tested": 3022
+		},
+		{
+			"zip": "60645",
+			"confirmed_cases": 750,
+			"total_tested": 2597
+		},
+		{
+			"zip": "60646",
+			"confirmed_cases": 255,
+			"total_tested": 1418
+		},
+		{
+			"zip": "60647",
+			"confirmed_cases": 773,
+			"total_tested": 3044
+		},
+		{
+			"zip": "60649",
+			"confirmed_cases": 562,
+			"total_tested": 2621
+		},
+		{
+			"zip": "60651",
+			"confirmed_cases": 993,
+			"total_tested": 3099
+		},
+		{
+			"zip": "60652",
+			"confirmed_cases": 566,
+			"total_tested": 1983
+		},
+		{
+			"zip": "60653",
+			"confirmed_cases": 351,
+			"total_tested": 1793
+		},
+		{
+			"zip": "60654",
+			"confirmed_cases": 107,
+			"total_tested": 602
+		},
+		{
+			"zip": "60655",
+			"confirmed_cases": 196,
+			"total_tested": 1434
+		},
+		{
+			"zip": "60656",
+			"confirmed_cases": 172,
+			"total_tested": 1208
+		},
+		{
+			"zip": "60657",
+			"confirmed_cases": 242,
+			"total_tested": 1828
+		},
+		{
+			"zip": "60659",
+			"confirmed_cases": 488,
+			"total_tested": 1536
+		},
+		{
+			"zip": "60660",
+			"confirmed_cases": 280,
+			"total_tested": 1166
+		},
+		{
+			"zip": "60661",
+			"confirmed_cases": 28,
+			"total_tested": 265
+		},
+		{
+			"zip": "60706",
+			"confirmed_cases": 234,
+			"total_tested": 1309
+		},
+		{
+			"zip": "60707",
+			"confirmed_cases": 506,
+			"total_tested": 2176
+		},
+		{
+			"zip": "60712",
+			"confirmed_cases": 121,
+			"total_tested": 551
+		},
+		{
+			"zip": "60714",
+			"confirmed_cases": 506,
+			"total_tested": 1589
+		},
+		{
+			"zip": "60803",
+			"confirmed_cases": 158,
+			"total_tested": 731
+		},
+		{
+			"zip": "60804",
+			"confirmed_cases": 1719,
+			"total_tested": 4681
+		},
+		{
+			"zip": "60805",
+			"confirmed_cases": 176,
+			"total_tested": 641
+		},
+		{
+			"zip": "60827",
+			"confirmed_cases": 235,
+			"total_tested": 1170
+		},
+		{
+			"zip": "60901",
+			"confirmed_cases": 295,
+			"total_tested": 1578
+		},
+		{
+			"zip": "60912",
+			"confirmed_cases": 6,
+			"total_tested": 16
+		},
+		{
+			"zip": "60914",
+			"confirmed_cases": 86,
+			"total_tested": 735
+		},
+		{
+			"zip": "60915",
+			"confirmed_cases": 33,
+			"total_tested": 308
+		},
+		{
+			"zip": "60922",
+			"confirmed_cases": 10,
+			"total_tested": 77
+		},
+		{
+			"zip": "60927",
+			"confirmed_cases": 39,
+			"total_tested": 111
+		},
+		{
+			"zip": "60928",
+			"confirmed_cases": 6,
+			"total_tested": 13
+		},
+		{
+			"zip": "60950",
+			"confirmed_cases": 51,
+			"total_tested": 279
+		},
+		{
+			"zip": "60954",
+			"confirmed_cases": 17,
+			"total_tested": 252
+		},
+		{
+			"zip": "60955",
+			"confirmed_cases": 10,
+			"total_tested": 32
+		},
+		{
+			"zip": "60958",
+			"confirmed_cases": 18,
+			"total_tested": 68
+		},
+		{
+			"zip": "60964",
+			"confirmed_cases": 17,
+			"total_tested": 102
+		},
+		{
+			"zip": "60970",
+			"confirmed_cases": 8,
+			"total_tested": 141
+		},
+		{
+			"zip": "61008",
+			"confirmed_cases": 174,
+			"total_tested": 567
+		},
+		{
+			"zip": "61016",
+			"confirmed_cases": 17,
+			"total_tested": 115
+		},
+		{
+			"zip": "61021",
+			"confirmed_cases": 53,
+			"total_tested": 523
+		},
+		{
+			"zip": "61032",
+			"confirmed_cases": 86,
+			"total_tested": 400
+		},
+		{
+			"zip": "61054",
+			"confirmed_cases": 6,
+			"total_tested": 85
+		},
+		{
+			"zip": "61064",
+			"confirmed_cases": 9,
+			"total_tested": 55
+		},
+		{
+			"zip": "61065",
+			"confirmed_cases": 14,
+			"total_tested": 139
+		},
+		{
+			"zip": "61068",
+			"confirmed_cases": 107,
+			"total_tested": 771
+		},
+		{
+			"zip": "61071",
+			"confirmed_cases": 25,
+			"total_tested": 159
+		},
+		{
+			"zip": "61072",
+			"confirmed_cases": 15,
+			"total_tested": 131
+		},
+		{
+			"zip": "61073",
+			"confirmed_cases": 14,
+			"total_tested": 233
+		},
+		{
+			"zip": "61080",
+			"confirmed_cases": 15,
+			"total_tested": 113
+		},
+		{
+			"zip": "61081",
+			"confirmed_cases": 56,
+			"total_tested": 264
+		},
+		{
+			"zip": "61084",
+			"confirmed_cases": 6,
+			"total_tested": 26
+		},
+		{
+			"zip": "61088",
+			"confirmed_cases": 6,
+			"total_tested": 90
+		},
+		{
+			"zip": "61101",
+			"confirmed_cases": 125,
+			"total_tested": 758
+		},
+		{
+			"zip": "61102",
+			"confirmed_cases": 106,
+			"total_tested": 605
+		},
+		{
+			"zip": "61103",
+			"confirmed_cases": 91,
+			"total_tested": 649
+		},
+		{
+			"zip": "61104",
+			"confirmed_cases": 125,
+			"total_tested": 483
+		},
+		{
+			"zip": "61107",
+			"confirmed_cases": 68,
+			"total_tested": 556
+		},
+		{
+			"zip": "61108",
+			"confirmed_cases": 128,
+			"total_tested": 624
+		},
+		{
+			"zip": "61109",
+			"confirmed_cases": 102,
+			"total_tested": 606
+		},
+		{
+			"zip": "61111",
+			"confirmed_cases": 31,
+			"total_tested": 356
+		},
+		{
+			"zip": "61114",
+			"confirmed_cases": 34,
+			"total_tested": 236
+		},
+		{
+			"zip": "61115",
+			"confirmed_cases": 30,
+			"total_tested": 344
+		},
+		{
+			"zip": "61201",
+			"confirmed_cases": 137,
+			"total_tested": 594
+		},
+		{
+			"zip": "61235",
+			"confirmed_cases": 8,
+			"total_tested": 43
+		},
+		{
+			"zip": "61240",
+			"confirmed_cases": 8,
+			"total_tested": 74
+		},
+		{
+			"zip": "61241",
+			"confirmed_cases": 13,
+			"total_tested": 112
+		},
+		{
+			"zip": "61244",
+			"confirmed_cases": 133,
+			"total_tested": 429
+		},
+		{
+			"zip": "61252",
+			"confirmed_cases": 8,
+			"total_tested": 53
+		},
+		{
+			"zip": "61254",
+			"confirmed_cases": 7,
+			"total_tested": 182
+		},
+		{
+			"zip": "61264",
+			"confirmed_cases": 18,
+			"total_tested": 174
+		},
+		{
+			"zip": "61265",
+			"confirmed_cases": 162,
+			"total_tested": 812
+		},
+		{
+			"zip": "61270",
+			"confirmed_cases": 6,
+			"total_tested": 82
+		},
+		{
+			"zip": "61275",
+			"confirmed_cases": 8,
+			"total_tested": 57
+		},
+		{
+			"zip": "61282",
+			"confirmed_cases": 31,
+			"total_tested": 139
+		},
+		{
+			"zip": "61341",
+			"confirmed_cases": 30,
+			"total_tested": 179
+		},
+		{
+			"zip": "61342",
+			"confirmed_cases": 14,
+			"total_tested": 108
+		},
+		{
+			"zip": "61350",
+			"confirmed_cases": 12,
+			"total_tested": 269
+		},
+		{
+			"zip": "61356",
+			"confirmed_cases": 6,
+			"total_tested": 149
+		},
+		{
+			"zip": "61401",
+			"confirmed_cases": 61,
+			"total_tested": 772
+		},
+		{
+			"zip": "61410",
+			"confirmed_cases": 6,
+			"total_tested": 52
+		},
+		{
+			"zip": "61443",
+			"confirmed_cases": 16,
+			"total_tested": 205
+		},
+		{
+			"zip": "61455",
+			"confirmed_cases": 40,
+			"total_tested": 396
+		},
+		{
+			"zip": "61462",
+			"confirmed_cases": 92,
+			"total_tested": 331
+		},
+		{
+			"zip": "61525",
+			"confirmed_cases": 6,
+			"total_tested": 128
+		},
+		{
+			"zip": "61548",
+			"confirmed_cases": 6,
+			"total_tested": 141
+		},
+		{
+			"zip": "61554",
+			"confirmed_cases": 17,
+			"total_tested": 651
+		},
+		{
+			"zip": "61603",
+			"confirmed_cases": 22,
+			"total_tested": 538
+		},
+		{
+			"zip": "61604",
+			"confirmed_cases": 24,
+			"total_tested": 782
+		},
+		{
+			"zip": "61605",
+			"confirmed_cases": 10,
+			"total_tested": 401
+		},
+		{
+			"zip": "61610",
+			"confirmed_cases": 6,
+			"total_tested": 85
+		},
+		{
+			"zip": "61611",
+			"confirmed_cases": 18,
+			"total_tested": 416
+		},
+		{
+			"zip": "61614",
+			"confirmed_cases": 42,
+			"total_tested": 567
+		},
+		{
+			"zip": "61615",
+			"confirmed_cases": 18,
+			"total_tested": 464
+		},
+		{
+			"zip": "61701",
+			"confirmed_cases": 37,
+			"total_tested": 943
+		},
+		{
+			"zip": "61704",
+			"confirmed_cases": 20,
+			"total_tested": 738
+		},
+		{
+			"zip": "61705",
+			"confirmed_cases": 9,
+			"total_tested": 279
+		},
+		{
+			"zip": "61761",
+			"confirmed_cases": 35,
+			"total_tested": 846
+		},
+		{
+			"zip": "61764",
+			"confirmed_cases": 10,
+			"total_tested": 206
+		},
+		{
+			"zip": "61801",
+			"confirmed_cases": 22,
+			"total_tested": 525
+		},
+		{
+			"zip": "61802",
+			"confirmed_cases": 31,
+			"total_tested": 650
+		},
+		{
+			"zip": "61820",
+			"confirmed_cases": 37,
+			"total_tested": 562
+		},
+		{
+			"zip": "61821",
+			"confirmed_cases": 35,
+			"total_tested": 801
+		},
+		{
+			"zip": "61822",
+			"confirmed_cases": 30,
+			"total_tested": 600
+		},
+		{
+			"zip": "61832",
+			"confirmed_cases": 15,
+			"total_tested": 436
+		},
+		{
+			"zip": "61853",
+			"confirmed_cases": 11,
+			"total_tested": 313
+		},
+		{
+			"zip": "61866",
+			"confirmed_cases": 71,
+			"total_tested": 589
+		},
+		{
+			"zip": "61874",
+			"confirmed_cases": 10,
+			"total_tested": 195
+		},
+		{
+			"zip": "61910",
+			"confirmed_cases": 6,
+			"total_tested": 64
+		},
+		{
+			"zip": "61920",
+			"confirmed_cases": 12,
+			"total_tested": 189
+		},
+		{
+			"zip": "61938",
+			"confirmed_cases": 9,
+			"total_tested": 225
+		},
+		{
+			"zip": "61953",
+			"confirmed_cases": 9,
+			"total_tested": 118
+		},
+		{
+			"zip": "62002",
+			"confirmed_cases": 67,
+			"total_tested": 343
+		},
+		{
+			"zip": "62010",
+			"confirmed_cases": 9,
+			"total_tested": 83
+		},
+		{
+			"zip": "62024",
+			"confirmed_cases": 7,
+			"total_tested": 54
+		},
+		{
+			"zip": "62025",
+			"confirmed_cases": 101,
+			"total_tested": 458
+		},
+		{
+			"zip": "62034",
+			"confirmed_cases": 48,
+			"total_tested": 162
+		},
+		{
+			"zip": "62035",
+			"confirmed_cases": 17,
+			"total_tested": 115
+		},
+		{
+			"zip": "62040",
+			"confirmed_cases": 63,
+			"total_tested": 399
+		},
+		{
+			"zip": "62052",
+			"confirmed_cases": 13,
+			"total_tested": 67
+		},
+		{
+			"zip": "62056",
+			"confirmed_cases": 12,
+			"total_tested": 150
+		},
+		{
+			"zip": "62060",
+			"confirmed_cases": 16,
+			"total_tested": 56
+		},
+		{
+			"zip": "62062",
+			"confirmed_cases": 6,
+			"total_tested": 152
+		},
+		{
+			"zip": "62069",
+			"confirmed_cases": 8,
+			"total_tested": 67
+		},
+		{
+			"zip": "62088",
+			"confirmed_cases": 6,
+			"total_tested": 201
+		},
+		{
+			"zip": "62090",
+			"confirmed_cases": 8,
+			"total_tested": 15
+		},
+		{
+			"zip": "62095",
+			"confirmed_cases": 11,
+			"total_tested": 92
+		},
+		{
+			"zip": "62201",
+			"confirmed_cases": 12,
+			"total_tested": 57
+		},
+		{
+			"zip": "62203",
+			"confirmed_cases": 26,
+			"total_tested": 110
+		},
+		{
+			"zip": "62204",
+			"confirmed_cases": 32,
+			"total_tested": 115
+		},
+		{
+			"zip": "62205",
+			"confirmed_cases": 35,
+			"total_tested": 125
+		},
+		{
+			"zip": "62206",
+			"confirmed_cases": 68,
+			"total_tested": 292
+		},
+		{
+			"zip": "62207",
+			"confirmed_cases": 46,
+			"total_tested": 121
+		},
+		{
+			"zip": "62208",
+			"confirmed_cases": 40,
+			"total_tested": 169
+		},
+		{
+			"zip": "62220",
+			"confirmed_cases": 84,
+			"total_tested": 191
+		},
+		{
+			"zip": "62221",
+			"confirmed_cases": 60,
+			"total_tested": 256
+		},
+		{
+			"zip": "62223",
+			"confirmed_cases": 41,
+			"total_tested": 150
+		},
+		{
+			"zip": "62226",
+			"confirmed_cases": 93,
+			"total_tested": 469
+		},
+		{
+			"zip": "62230",
+			"confirmed_cases": 6,
+			"total_tested": 83
+		},
+		{
+			"zip": "62231",
+			"confirmed_cases": 64,
+			"total_tested": 240
+		},
+		{
+			"zip": "62232",
+			"confirmed_cases": 9,
+			"total_tested": 56
+		},
+		{
+			"zip": "62233",
+			"confirmed_cases": 82,
+			"total_tested": 298
+		},
+		{
+			"zip": "62234",
+			"confirmed_cases": 38,
+			"total_tested": 268
+		},
+		{
+			"zip": "62236",
+			"confirmed_cases": 36,
+			"total_tested": 108
+		},
+		{
+			"zip": "62239",
+			"confirmed_cases": 11,
+			"total_tested": 35
+		},
+		{
+			"zip": "62249",
+			"confirmed_cases": 10,
+			"total_tested": 102
+		},
+		{
+			"zip": "62254",
+			"confirmed_cases": 19,
+			"total_tested": 92
+		},
+		{
+			"zip": "62257",
+			"confirmed_cases": 8,
+			"total_tested": 42
+		},
+		{
+			"zip": "62258",
+			"confirmed_cases": 14,
+			"total_tested": 75
+		},
+		{
+			"zip": "62265",
+			"confirmed_cases": 10,
+			"total_tested": 158
+		},
+		{
+			"zip": "62269",
+			"confirmed_cases": 61,
+			"total_tested": 258
+		},
+		{
+			"zip": "62272",
+			"confirmed_cases": 44,
+			"total_tested": 114
+		},
+		{
+			"zip": "62274",
+			"confirmed_cases": 9,
+			"total_tested": 91
+		},
+		{
+			"zip": "62278",
+			"confirmed_cases": 15,
+			"total_tested": 95
+		},
+		{
+			"zip": "62285",
+			"confirmed_cases": 6,
+			"total_tested": 34
+		},
+		{
+			"zip": "62286",
+			"confirmed_cases": 27,
+			"total_tested": 190
+		},
+		{
+			"zip": "62288",
+			"confirmed_cases": 31,
+			"total_tested": 133
+		},
+		{
+			"zip": "62294",
+			"confirmed_cases": 16,
+			"total_tested": 98
+		},
+		{
+			"zip": "62295",
+			"confirmed_cases": 7,
+			"total_tested": 14
+		},
+		{
+			"zip": "62298",
+			"confirmed_cases": 37,
+			"total_tested": 156
+		},
+		{
+			"zip": "62301",
+			"confirmed_cases": 20,
+			"total_tested": 401
+		},
+		{
+			"zip": "62305",
+			"confirmed_cases": 15,
+			"total_tested": 113
+		},
+		{
+			"zip": "62353",
+			"confirmed_cases": 6,
+			"total_tested": 175
+		},
+		{
+			"zip": "62448",
+			"confirmed_cases": 37,
+			"total_tested": 208
+		},
+		{
+			"zip": "62454",
+			"confirmed_cases": 7,
+			"total_tested": 104
+		},
+		{
+			"zip": "62471",
+			"confirmed_cases": 16,
+			"total_tested": 114
+		},
+		{
+			"zip": "62521",
+			"confirmed_cases": 87,
+			"total_tested": 601
+		},
+		{
+			"zip": "62522",
+			"confirmed_cases": 22,
+			"total_tested": 125
+		},
+		{
+			"zip": "62526",
+			"confirmed_cases": 27,
+			"total_tested": 287
+		},
+		{
+			"zip": "62565",
+			"confirmed_cases": 9,
+			"total_tested": 62
+		},
+		{
+			"zip": "62568",
+			"confirmed_cases": 25,
+			"total_tested": 229
+		},
+		{
+			"zip": "62618",
+			"confirmed_cases": 51,
+			"total_tested": 433
+		},
+		{
+			"zip": "62629",
+			"confirmed_cases": 10,
+			"total_tested": 287
+		},
+		{
+			"zip": "62650",
+			"confirmed_cases": 24,
+			"total_tested": 426
+		},
+		{
+			"zip": "62656",
+			"confirmed_cases": 9,
+			"total_tested": 384
+		},
+		{
+			"zip": "62664",
+			"confirmed_cases": 9,
+			"total_tested": 77
+		},
+		{
+			"zip": "62675",
+			"confirmed_cases": 6,
+			"total_tested": 138
+		},
+		{
+			"zip": "62681",
+			"confirmed_cases": 6,
+			"total_tested": 115
+		},
+		{
+			"zip": "62684",
+			"confirmed_cases": 63,
+			"total_tested": 278
+		},
+		{
+			"zip": "62702",
+			"confirmed_cases": 48,
+			"total_tested": 951
+		},
+		{
+			"zip": "62703",
+			"confirmed_cases": 46,
+			"total_tested": 781
+		},
+		{
+			"zip": "62704",
+			"confirmed_cases": 33,
+			"total_tested": 915
+		},
+		{
+			"zip": "62707",
+			"confirmed_cases": 11,
+			"total_tested": 176
+		},
+		{
+			"zip": "62711",
+			"confirmed_cases": 18,
+			"total_tested": 412
+		},
+		{
+			"zip": "62801",
+			"confirmed_cases": 50,
+			"total_tested": 548
+		},
+		{
+			"zip": "62832",
+			"confirmed_cases": 16,
+			"total_tested": 213
+		},
+		{
+			"zip": "62864",
+			"confirmed_cases": 83,
+			"total_tested": 576
+		},
+		{
+			"zip": "62882",
+			"confirmed_cases": 6,
+			"total_tested": 60
+		},
+		{
+			"zip": "62901",
+			"confirmed_cases": 93,
+			"total_tested": 567
+		},
+		{
+			"zip": "62902",
+			"confirmed_cases": 12,
+			"total_tested": 77
+		},
+		{
+			"zip": "62906",
+			"confirmed_cases": 33,
+			"total_tested": 243
+		},
+		{
+			"zip": "62907",
+			"confirmed_cases": 12,
+			"total_tested": 45
+		},
+		{
+			"zip": "62918",
+			"confirmed_cases": 10,
+			"total_tested": 165
+		},
+		{
+			"zip": "62920",
+			"confirmed_cases": 20,
+			"total_tested": 97
+		},
+		{
+			"zip": "62948",
+			"confirmed_cases": 6,
+			"total_tested": 213
+		},
+		{
+			"zip": "62959",
+			"confirmed_cases": 23,
+			"total_tested": 511
+		},
+		{
+			"zip": "62966",
+			"confirmed_cases": 41,
+			"total_tested": 355
+		},
+		{
+			"zip": "62992",
+			"confirmed_cases": 22,
+			"total_tested": 62
+		}
+	]
+}

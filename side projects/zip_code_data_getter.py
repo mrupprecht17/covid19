@@ -2,9 +2,9 @@ import json
 import datetime
 import numpy as np
 
-def zip_code_data(zip_code, race=None, gender=None):
+def zip_code_data(zip_code, race=None, gender=None, age=None):
 	lag = 1
-	roll = 7
+	roll = 14
 
 	directory = "C:\\Users\\Michael\\OneDrive - California Institute of Technology\\Documents\\musings, et cetera\\COVID-19\\IL data\\"
 	cases = []
@@ -34,6 +34,12 @@ def zip_code_data(zip_code, race=None, gender=None):
 				if g["description"] == gender:
 					day_cases = g["count"]
 					day_tests = g["tested"]
+					break
+		elif age:
+			for a in d["demographics"]["age"]:
+				if a["age_group"] == age:
+					day_cases = a["count"]
+					day_tests = a["tested"]
 					break
 
 		cases.append(day_cases)
@@ -90,5 +96,5 @@ if __name__ == '__main__':
 
 	for zip_code in zip_codes:
 		arr, averaged, average = zip_code_data(zip_code)
-		arr_white, averaged_white, average_white = zip_code_data(zip_code, race="White")
+		arr_white, averaged_white, average_white = zip_code_data(zip_code, gender="Male")
 		print(zip_code, "\t", round(average * 100, 1), "\t", round(average_white * 100, 1))
