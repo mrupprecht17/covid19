@@ -96,5 +96,5 @@ if __name__ == '__main__':
 
 	for zip_code in zip_codes:
 		arr, averaged, average = zip_code_data(zip_code)
-		arr_white, averaged_white, average_white = zip_code_data(zip_code, gender="Male")
+		arr_white, averaged_white, average_white = zip_code_data(zip_code, race="Left Blank")
 		print(zip_code, "\t", round(average * 100, 1), "\t", round(average_white * 100, 1))

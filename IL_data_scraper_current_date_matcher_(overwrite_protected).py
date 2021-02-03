@@ -44,7 +44,7 @@ api_names = {
 	# "COVIDHistoricalTestResults": f"GetCountyHistoricalTestResults?reportDate={update_date_string}",
 	# "COVIDZip": "GetZip",
 	"COVIDTestResults": "GetCountyTestResults",
-	"COVIDRates": "GetCountyRates",
+	# "COVIDRates": "GetCountyRates", # returns a 500 error as of 1/28/21; purged from the documentation
 	"CountyDemos": "GetCountyDemographics",
 }
 
