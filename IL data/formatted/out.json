@@ -1429,6 +1429,106 @@
 			"confirmed_cases": 1179342,
 			"total_tested": 17804537,
 			"deaths": 20374
+		},
+		"2021.02.25": {
+			"confirmed_cases": 1181226,
+			"total_tested": 17895829,
+			"deaths": 20406
+		},
+		"2021.02.26": {
+			"confirmed_cases": 1183667,
+			"total_tested": 17988085,
+			"deaths": 20460
+		},
+		"2021.02.27": {
+			"confirmed_cases": 1185447,
+			"total_tested": 18069753,
+			"deaths": 20494
+		},
+		"2021.02.28": {
+			"confirmed_cases": 1186696,
+			"total_tested": 18136253,
+			"deaths": 20516
+		},
+		"2021.03.01": {
+			"confirmed_cases": 1187839,
+			"total_tested": 18178487,
+			"deaths": 20536
+		},
+		"2021.03.02": {
+			"confirmed_cases": 1189416,
+			"total_tested": 18234668,
+			"deaths": 20583
+		},
+		"2021.03.03": {
+			"confirmed_cases": 1191520,
+			"total_tested": 18315522,
+			"deaths": 20626
+		},
+		"2021.03.04": {
+			"confirmed_cases": 1193260,
+			"total_tested": 18389512,
+			"deaths": 20668
+		},
+		"2021.03.05": {
+			"confirmed_cases": 1194702,
+			"total_tested": 18492848,
+			"deaths": 20700
+		},
+		"2021.03.06": {
+			"confirmed_cases": 1197267,
+			"total_tested": 18572096,
+			"deaths": 20750
+		},
+		"2021.03.07": {
+			"confirmed_cases": 1198335,
+			"total_tested": 18640190,
+			"deaths": 20763
+		},
+		"2021.03.08": {
+			"confirmed_cases": 1199517,
+			"total_tested": 18679826,
+			"deaths": 20767
+		},
+		"2021.03.09": {
+			"confirmed_cases": 1201027,
+			"total_tested": 18733271,
+			"deaths": 20781
+		},
+		"2021.03.10": {
+			"confirmed_cases": 1202709,
+			"total_tested": 18804759,
+			"deaths": 20810
+		},
+		"2021.03.11": {
+			"confirmed_cases": 1204409,
+			"total_tested": 18894652,
+			"deaths": 20863
+		},
+		"2021.03.12": {
+			"confirmed_cases": 1206172,
+			"total_tested": 18988565,
+			"deaths": 20901
+		},
+		"2021.03.13": {
+			"confirmed_cases": 1207847,
+			"total_tested": 19066070,
+			"deaths": 20924
+		},
+		"2021.03.14": {
+			"confirmed_cases": 1209331,
+			"total_tested": 19131098,
+			"deaths": 20943
+		},
+		"2021.03.15": {
+			"confirmed_cases": 1210113,
+			"total_tested": 19170243,
+			"deaths": 20955
+		},
+		"2021.03.16": {
+			"confirmed_cases": 1212110,
+			"total_tested": 19221483,
+			"deaths": 20973
 		}
 	},
 	"Cook": {
@@ -2611,6 +2711,106 @@
 			"confirmed_cases": 228433,
 			"total_tested": 3012476,
 			"deaths": 4457
+		},
+		"2021.02.25": {
+			"confirmed_cases": 228723,
+			"total_tested": 3026722,
+			"deaths": 4458
+		},
+		"2021.02.26": {
+			"confirmed_cases": 229124,
+			"total_tested": 3041327,
+			"deaths": 4468
+		},
+		"2021.02.27": {
+			"confirmed_cases": 229455,
+			"total_tested": 3053565,
+			"deaths": 4474
+		},
+		"2021.02.28": {
+			"confirmed_cases": 229672,
+			"total_tested": 3062638,
+			"deaths": 4477
+		},
+		"2021.03.01": {
+			"confirmed_cases": 229907,
+			"total_tested": 3070137,
+			"deaths": 4480
+		},
+		"2021.03.02": {
+			"confirmed_cases": 230109,
+			"total_tested": 3077269,
+			"deaths": 4506
+		},
+		"2021.03.03": {
+			"confirmed_cases": 230429,
+			"total_tested": 3086558,
+			"deaths": 4508
+		},
+		"2021.03.04": {
+			"confirmed_cases": 230611,
+			"total_tested": 3098216,
+			"deaths": 4515
+		},
+		"2021.03.05": {
+			"confirmed_cases": 230838,
+			"total_tested": 3114743,
+			"deaths": 4515
+		},
+		"2021.03.06": {
+			"confirmed_cases": 231424,
+			"total_tested": 3127092,
+			"deaths": 4531
+		},
+		"2021.03.07": {
+			"confirmed_cases": 231603,
+			"total_tested": 3136928,
+			"deaths": 4532
+		},
+		"2021.03.08": {
+			"confirmed_cases": 231851,
+			"total_tested": 3144509,
+			"deaths": 4532
+		},
+		"2021.03.09": {
+			"confirmed_cases": 232159,
+			"total_tested": 3150766,
+			"deaths": 4532
+		},
+		"2021.03.10": {
+			"confirmed_cases": 232502,
+			"total_tested": 3159774,
+			"deaths": 4538
+		},
+		"2021.03.11": {
+			"confirmed_cases": 232818,
+			"total_tested": 3173531,
+			"deaths": 4556
+		},
+		"2021.03.12": {
+			"confirmed_cases": 233203,
+			"total_tested": 3190037,
+			"deaths": 4558
+		},
+		"2021.03.13": {
+			"confirmed_cases": 233453,
+			"total_tested": 3200762,
+			"deaths": 4559
+		},
+		"2021.03.14": {
+			"confirmed_cases": 233726,
+			"total_tested": 3211026,
+			"deaths": 4562
+		},
+		"2021.03.15": {
+			"confirmed_cases": 233860,
+			"total_tested": 3217359,
+			"deaths": 4566
+		},
+		"2021.03.16": {
+			"confirmed_cases": 234363,
+			"total_tested": 3224998,
+			"deaths": 4572
 		}
 	},
 	"Chicago": {
@@ -3793,6 +3993,106 @@
 			"confirmed_cases": 243252,
 			"total_tested": 3298370,
 			"deaths": 4850
+		},
+		"2021.02.25": {
+			"confirmed_cases": 243483,
+			"total_tested": 3313026,
+			"deaths": 4859
+		},
+		"2021.02.26": {
+			"confirmed_cases": 244070,
+			"total_tested": 3329472,
+			"deaths": 4871
+		},
+		"2021.02.27": {
+			"confirmed_cases": 244489,
+			"total_tested": 3344776,
+			"deaths": 4877
+		},
+		"2021.02.28": {
+			"confirmed_cases": 244725,
+			"total_tested": 3357597,
+			"deaths": 4882
+		},
+		"2021.03.01": {
+			"confirmed_cases": 244978,
+			"total_tested": 3365658,
+			"deaths": 4889
+		},
+		"2021.03.02": {
+			"confirmed_cases": 245277,
+			"total_tested": 3374206,
+			"deaths": 4894
+		},
+		"2021.03.03": {
+			"confirmed_cases": 245665,
+			"total_tested": 3386513,
+			"deaths": 4898
+		},
+		"2021.03.04": {
+			"confirmed_cases": 246224,
+			"total_tested": 3399768,
+			"deaths": 4902
+		},
+		"2021.03.05": {
+			"confirmed_cases": 246543,
+			"total_tested": 3417720,
+			"deaths": 4913
+		},
+		"2021.03.06": {
+			"confirmed_cases": 247074,
+			"total_tested": 3432269,
+			"deaths": 4916
+		},
+		"2021.03.07": {
+			"confirmed_cases": 247281,
+			"total_tested": 3446054,
+			"deaths": 4921
+		},
+		"2021.03.08": {
+			"confirmed_cases": 247510,
+			"total_tested": 3455099,
+			"deaths": 4924
+		},
+		"2021.03.09": {
+			"confirmed_cases": 247754,
+			"total_tested": 3461730,
+			"deaths": 4925
+		},
+		"2021.03.10": {
+			"confirmed_cases": 247985,
+			"total_tested": 3471975,
+			"deaths": 4927
+		},
+		"2021.03.11": {
+			"confirmed_cases": 248283,
+			"total_tested": 3487428,
+			"deaths": 4938
+		},
+		"2021.03.12": {
+			"confirmed_cases": 248584,
+			"total_tested": 3504302,
+			"deaths": 4938
+		},
+		"2021.03.13": {
+			"confirmed_cases": 248971,
+			"total_tested": 3518096,
+			"deaths": 4950
+		},
+		"2021.03.14": {
+			"confirmed_cases": 249247,
+			"total_tested": 3530756,
+			"deaths": 4952
+		},
+		"2021.03.15": {
+			"confirmed_cases": 249422,
+			"total_tested": 3539468,
+			"deaths": 4956
+		},
+		"2021.03.16": {
+			"confirmed_cases": 249783,
+			"total_tested": 3548490,
+			"deaths": 4959
 		}
 	},
 	"60630": {
@@ -4727,6 +5027,86 @@
 		"2021.02.24": {
 			"confirmed_cases": 4901,
 			"total_tested": 53306
+		},
+		"2021.02.25": {
+			"confirmed_cases": 4910,
+			"total_tested": 53487
+		},
+		"2021.02.26": {
+			"confirmed_cases": 4919,
+			"total_tested": 53825
+		},
+		"2021.02.27": {
+			"confirmed_cases": 4926,
+			"total_tested": 54028
+		},
+		"2021.02.28": {
+			"confirmed_cases": 4933,
+			"total_tested": 54216
+		},
+		"2021.03.01": {
+			"confirmed_cases": 4944,
+			"total_tested": 54415
+		},
+		"2021.03.02": {
+			"confirmed_cases": 4950,
+			"total_tested": 54582
+		},
+		"2021.03.03": {
+			"confirmed_cases": 4963,
+			"total_tested": 54755
+		},
+		"2021.03.04": {
+			"confirmed_cases": 4974,
+			"total_tested": 54953
+		},
+		"2021.03.05": {
+			"confirmed_cases": 4979,
+			"total_tested": 55162
+		},
+		"2021.03.06": {
+			"confirmed_cases": 4992,
+			"total_tested": 55523
+		},
+		"2021.03.07": {
+			"confirmed_cases": 5000,
+			"total_tested": 55734
+		},
+		"2021.03.08": {
+			"confirmed_cases": 5004,
+			"total_tested": 55835
+		},
+		"2021.03.09": {
+			"confirmed_cases": 5011,
+			"total_tested": 55941
+		},
+		"2021.03.10": {
+			"confirmed_cases": 5019,
+			"total_tested": 56079
+		},
+		"2021.03.11": {
+			"confirmed_cases": 5027,
+			"total_tested": 56316
+		},
+		"2021.03.12": {
+			"confirmed_cases": 5032,
+			"total_tested": 56536
+		},
+		"2021.03.13": {
+			"confirmed_cases": 5043,
+			"total_tested": 56684
+		},
+		"2021.03.14": {
+			"confirmed_cases": 5049,
+			"total_tested": 56996
+		},
+		"2021.03.15": {
+			"confirmed_cases": 5056,
+			"total_tested": 57100
+		},
+		"2021.03.16": {
+			"confirmed_cases": 5065,
+			"total_tested": 57241
 		}
 	}
 }
